@@ -50,3 +50,9 @@ The goal is to reduce churn by highlighting at-risk customers and optimizing ret
 - Enabled **27% churn risk** visibility across customer segments.
 - Helped highlight high-risk areas like **fiber users and month-to-month contracts**.
 - Improved stakeholder decision-making with **interactive and filterable insights**.
+---
+
+## 📈 Sample Screenshot
+![image](https://github.com/user-attachments/assets/0e955bb7-e72c-4ee4-9576-ed06fe2868c8)
+
+  
